@@ -1,0 +1,19 @@
+{
+  "name": "paradoxe",
+  "version": "0.2.0",
+  "description": "Very light CSS grid framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adrien-H/paradoxe.git"
+  },
+  "author": "Adrien H <adrien.h@tuta.io>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Adrien-H/paradoxe/issues"
+  },
+  "homepage": "https://github.com/Adrien-H/paradoxe#readme"
+}
